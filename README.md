@@ -31,16 +31,3 @@ A Streamlit-based Stock Market Analysis and Prediction app that uses **deep lear
 - **Other Libraries:** NumPy, Pandas, Scikit-learn
 
 ---
-
-## 📂 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Stock-Market-Prediction.git
-   cd Stock-Market-Prediction
-
-# Install dependencies
-pip install -r requirements.txt --user
-
-# Run the app
-python -m streamlit run app.py
