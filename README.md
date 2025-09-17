@@ -39,10 +39,8 @@ A Streamlit-based Stock Market Analysis and Prediction app that uses **deep lear
    git clone https://github.com/your-username/Stock-Market-Prediction.git
    cd Stock-Market-Prediction
 
-python -m virtualenv env
-source env/bin/activate   # Linux/Mac
-env\Scripts\activate      # Windows
-
+# Install dependencies
 pip install -r requirements.txt --user
 
+# Run the app
 python -m streamlit run app.py
